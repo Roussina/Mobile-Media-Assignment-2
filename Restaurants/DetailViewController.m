@@ -12,6 +12,7 @@
 @synthesize navigationHeader;
 @synthesize cuisineLabel;
 @synthesize review;
+@synthesize age;
 
 
 #pragma mark - View lifecycle

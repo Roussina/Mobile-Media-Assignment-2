@@ -12,6 +12,7 @@
     NSString* cuisineType;
     NSString* phone;
     NSString* review;
+    NSString* age;
     
 }
 @property(readwrite, strong) NSString* address;
@@ -19,5 +20,6 @@
 @property(readwrite, strong) NSString* cuisineType;
 @property(readwrite, strong) NSString* phone;
 @property(readwrite, strong) NSString* review;
+@property(readwrite, strong) NSString* age;
 
 @end

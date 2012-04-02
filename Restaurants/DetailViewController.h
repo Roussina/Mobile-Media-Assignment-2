@@ -18,6 +18,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *
     phone;
 @property (weak, nonatomic)IBOutlet UILabel *  review;
+@property (weak, nonatomic)IBOutlet UILabel * age;
 
 
 
