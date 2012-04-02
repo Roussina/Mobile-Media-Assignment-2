@@ -16,10 +16,16 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"LOADED");
+    
     restaurant = [[Restaurant alloc] init];
+    restaurant.cuisineType= @"SOME TEXT";
+    
+    NSLog(@"text: %@", restaurant.cuisineType);
     
     addressLabel.text = [restaurant address];
     navigationHeader.title = [restaurant name];
+    cuisineLabel.text = restaurant.cuisineType;
 }
 
 - (void)viewDidUnload
