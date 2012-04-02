@@ -98,7 +98,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="My review of Per Se goes here" lineBreakMode="tailTruncation" numberOfLines="0" minimumFontSize="10" id="XqL-Hy-JKJ">
-                                <rect key="frame" x="14" y="257" width="280" height="83"/>
+                                <rect key="frame" x="20" y="257" width="280" height="83"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" size="system"/>
@@ -106,7 +106,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" text="Age" lineBreakMode="tailTruncation" numberOfLines="0" minimumFontSize="10" id="Fiy-PT-cOy">
-                                <rect key="frame" x="47" y="313" width="280" height="83"/>
+                                <rect key="frame" x="20" y="313" width="280" height="83"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" size="system"/>
