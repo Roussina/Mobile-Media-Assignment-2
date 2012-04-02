@@ -7,9 +7,12 @@
 #import "DetailViewController.h"
 
 @implementation DetailViewController
+@synthesize phone;
 @synthesize addressLabel;
 @synthesize navigationHeader;
 @synthesize cuisineLabel;
+@synthesize review;
+
 
 #pragma mark - View lifecycle
 
@@ -33,6 +36,9 @@
     [self setAddressLabel:nil];
     [self setNavigationHeader:nil];
     [self setCuisineLabel:nil];
+    [self setCuisineLabel:nil];
+    [self setAddressLabel:nil];
+    [self setPhone:nil];
     [super viewDidUnload];
 }
 
